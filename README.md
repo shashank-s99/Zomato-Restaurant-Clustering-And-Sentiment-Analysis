@@ -1,6 +1,7 @@
 <h1 align="center">Zomato Restaurant Clustering And Sentiment Analysis</h1>
 
-(https://www.bhmpics.com/downloads/zomato-Wallpapers/20.zomato_1-sixteen_nine.jpg)
+![20 zomato_1-sixteen_nine](https://github.com/user-attachments/assets/44bdcba4-ee3d-44c2-9b3f-fdb905ec77ee)
+
 
 
 
